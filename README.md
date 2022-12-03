@@ -48,7 +48,8 @@ Great! You're ready to install your Slack app.
 ---
 Click this deploy from Autocode button to quickly set up your project in Autocode.
 
-[<img src="https://deploy.stdlib.com/static/images/deploy.svg?" width="192">](https://deploy.stdlib.com/)
+[<img  data-src="https://deploy.stdlib.com/static/images/deploy.svg" width="192">](https://open.autocode.com/)
+
 
 You will be prompted to sign in or create a **free** account. If you have a Standard Library account click **Already Registered** and sign in using your Standard Library credentials.
 
